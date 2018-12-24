@@ -1,6 +1,6 @@
 {
   "name": "@jwstott/card",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A personal card for Jim Stott",
   "main": "index.js",
   "bin": {
