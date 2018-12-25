@@ -16,7 +16,7 @@ Not including how to use it globally because I'm not sure why you'd want this as
 
 ## Credits
 
-Forked from Tierney Cyren's https://github.com/bnb/bitandbang
+Forked from Tierney Cyren's https://github.com/johnpapa/johnpapa-card
 
 ![Card](https://raw.githubusercontent.com/jstott/jstott-card/master/card.gif)
 
